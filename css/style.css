@@ -7,3 +7,10 @@ body {
 	margin-top: 60px;
 	margin-bottom: 15px;
 }
+ #portfolio {
+ 	margin: 45px -100px 25px 100px;
+ }
+
+ #lastPortfolioPic {
+ 	margin-left: 70px;
+ }
